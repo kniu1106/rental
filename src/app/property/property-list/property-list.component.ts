@@ -2,7 +2,6 @@ import { Component, OnInit } from '@angular/core';
 import { HousingService } from 'src/app/services/housing.service';
 import { Property } from 'src/app/model/property';
 import { ActivatedRoute } from '@angular/router';
-//ssss
 @Component({
   selector: 'app-property-list',
   templateUrl: './property-list.component.html',
